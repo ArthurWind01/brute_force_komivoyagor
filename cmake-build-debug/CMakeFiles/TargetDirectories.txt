@@ -1,0 +1,3 @@
+C:/Users/bazaev/CLionProjects/brute_force_komivoyagor/cmake-build-debug/CMakeFiles/brute_force_komivoyagor.dir
+C:/Users/bazaev/CLionProjects/brute_force_komivoyagor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/bazaev/CLionProjects/brute_force_komivoyagor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
